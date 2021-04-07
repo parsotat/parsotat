@@ -36,7 +36,6 @@ Below are some of my projects related to researching Gamma Ray Bursts
 <a href="https://github.com/lazzati-astro/MCRaT">
   <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=lazzati-astro&repo=MCRaT" />
 </a>
-
 <a href="https://github.com/parsotat/ProcessMCRaT">
   <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=parsotat&repo=ProcessMCRaT" />
 </a>
