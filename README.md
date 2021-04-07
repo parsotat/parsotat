@@ -30,6 +30,15 @@ Below are some coding languages that I have experience using as a result of my v
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
 <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white"/>
 
+<center>
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=parsotat&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsotat&hide=html&layout=compact" /></td>
+  </tr>   
+</table>
+</center>
+
 ## :pushpin: My projects
 Below are some of my projects related to researching Gamma Ray Bursts
 
