@@ -34,7 +34,8 @@ Coding languages that I have experience using as a result of my various experien
 <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white"/>
 
 ## :pushpin: My projects
-Some of my projects related to researching Gamma Ray Bursts
+Below are some of my projects related to researching Gamma Ray Bursts
+
 <a href="https://github.com/lazzati-astro/MCRaT">
   <img align="center" class="m-2"  src="https://github-readme-stats.vercel.app/api/pin/?username=lazzati-astro&repo=MCRaT" />
 </a>
