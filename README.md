@@ -27,7 +27,7 @@ Coding languages that I have experience using as a result of my various experien
  
 <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 
-<img alt="C" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat-square&logo=c&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-%23239120.svg?&style=flat-square&logo=c&logoColor=white"/>
 
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
 
@@ -37,7 +37,7 @@ Coding languages that I have experience using as a result of my various experien
 Below are some of my projects related to researching Gamma Ray Bursts
 
 <a href="https://github.com/lazzati-astro/MCRaT">
-  <img align="center" class="m-2"  src="https://github-readme-stats.vercel.app/api/pin/?username=lazzati-astro&repo=MCRaT" />
+  <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=lazzati-astro&repo=MCRaT" />
 </a>
 
 <a href="https://github.com/parsotat/ProcessMCRaT">
