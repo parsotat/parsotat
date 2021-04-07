@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
+My name is Tyler Parsotan. I am a Physics PhD candidate at Oregon State University studying computational astrophysics under Dr. Davide Lazzati. My research is focused on simulating and studying the prompt emission of Gamma Ray Bursts, the most powerful explosions in the Universe.
 <!--
 **parsotat/parsotat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=cIxaj3MAAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Tyler-Parsotan)
