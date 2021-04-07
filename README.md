@@ -23,14 +23,11 @@ Here are some ideas to get you started:
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Tyler-Parsotan)
 
 ## :computer: Languages
-Coding languages that I have experience using as a result of my various experiences
+Below are some coding languages that I have experience using as a result of my various experiences:
  
 <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
-
 <img alt="C" src="https://img.shields.io/badge/C-%23239120.svg?&style=flat-square&logo=c&logoColor=white"/>
-
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
-
 <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white"/>
 
 ## :pushpin: My projects
