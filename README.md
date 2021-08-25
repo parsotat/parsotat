@@ -51,4 +51,4 @@ Below are some of my projects related to researching Gamma Ray Bursts
 
 ## Contact
 
-Tyler Parsotan - [Personal Website](https://http://sites.science.oregonstate.edu/~parsotat/) - parsotat@oregonstate.edu
+Tyler Parsotan - [Personal Website](https://http://sites.science.oregonstate.edu/~parsotat/) - parsotat@umbc.edu
