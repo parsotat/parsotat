@@ -2,7 +2,7 @@
 
 My name is Tyler Parsotan. I am a postdoctoral researcher at NASA Goddard studying computational astrophysics and supporting the Swift Observatory. My research is focused on simulating and studying the prompt emission of Gamma Ray Bursts, the most powerful explosions in the Universe.
 
-More information about me and my research endeavours can be found at my [Personal Website](https://http://sites.science.oregonstate.edu/~parsotat/). Feel free to reach out if you are interested in collaborating on research or anything else at all.
+More information about me and my research endeavours can be found at my [Personal Website](https://asd.gsfc.nasa.gov/Tyler.Parsotan/). Feel free to reach out if you are interested in collaborating on research or anything else at all.
 <!--
 **parsotat/parsotat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,4 +51,4 @@ Below are some of my projects related to researching Gamma Ray Bursts
 
 ## Contact
 
-Tyler Parsotan - [Personal Website](https://http://sites.science.oregonstate.edu/~parsotat/) - parsotat@umbc.edu
+Tyler Parsotan - [Personal Website](https://asd.gsfc.nasa.gov/Tyler.Parsotan/) - parsotat@umbc.edu
