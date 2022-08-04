@@ -40,13 +40,21 @@ Below are some coding languages that I have experience using as a result of my v
 </center>
 
 ## :pushpin: My projects
-Below are some of my projects related to researching Gamma Ray Bursts
+Below are some of my projects related to researching Gamma Ray Bursts:
 
 <a href="https://github.com/lazzati-astro/MCRaT">
   <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=lazzati-astro&repo=MCRaT" />
 </a>
 <a href="https://github.com/parsotat/ProcessMCRaT">
   <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=parsotat&repo=ProcessMCRaT" />
+</a>
+
+Here are some projects that I am contributing to with the goal of enhancing Gamma Ray Burst detection pipelines:
+<a href="https://github.com/Swift-BAT/NITRATES">
+  <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Swift-BAT&repo=NITRATES" />
+</a>
+<a href="https://github.com/lanl/swiftbat_python">
+  <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=lanl&repo=swiftbat_python" />
 </a>
 
 ## Contact
