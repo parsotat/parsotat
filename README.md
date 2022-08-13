@@ -50,6 +50,7 @@ Below are some of my projects related to researching Gamma Ray Bursts:
 </a>
 
 Here are some projects that I am contributing to with the goal of enhancing Gamma Ray Burst detection pipelines:
+
 <a href="https://github.com/Swift-BAT/NITRATES">
   <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Swift-BAT&repo=NITRATES" />
 </a>
