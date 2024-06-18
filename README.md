@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is Tyler Parsotan. I am a postdoctoral researcher at NASA Goddard studying computational astrophysics and supporting the Swift Observatory. My research is focused on simulating and studying the prompt emission of Gamma Ray Bursts, the most powerful explosions in the Universe.
+My name is Tyler Parsotan. I am a postdoctoral researcher at NASA Goddard studying computational astrophysics and supporting the Swift Observatory. My research is focused on simulating and studying the prompt emission of Gamma Ray Bursts, the most powerful explosions in the Universe. I strive to make my research as open as possible in order to maximize the accessibility and reproducibility of the science that I do.
 
 More information about me and my research endeavours can be found at my [Personal Website](https://asd.gsfc.nasa.gov/Tyler.Parsotan/). Feel free to reach out if you are interested in collaborating on research or anything else at all.
 <!--
@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![NASA TOPS Badge](https://images.credly.com/size/100x100/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](https://www.credly.com/badges/803c5edd-6da0-4df9-8d44-33c54a03f9a6/public_url)
 
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=cIxaj3MAAAAJ&hl=en)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Tyler-Parsotan)
+
 
 ## :computer: Languages
 Below are some coding languages that I have experience using as a result of my various experiences:
